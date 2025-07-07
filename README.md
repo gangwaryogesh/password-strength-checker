@@ -1,6 +1,7 @@
 #  Password Strength Checker
 
-A GUI-based Python tool that checks password strength, suggests improvements, and generates strong custom passwords. Built using Tkinter, it's lightweight and compatible with **Windows 7 32-bit** systems.
+A GUI-based Python tool that checks password strength, suggests improvements, and generates strong custom passwords. 
+Built using Tkinter, it's lightweight and compatible.
 
 ---
 
