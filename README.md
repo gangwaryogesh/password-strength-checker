@@ -23,7 +23,7 @@ Built using Tkinter, it's lightweight and compatible.
 
 ###  Run from Python:
 
-1. Make sure you have **Python 3.7.4 (32-bit)** installed
+1. Make sure you have **Python  installed
 2. Install NLTK (optional for dictionary detection):
 
 
